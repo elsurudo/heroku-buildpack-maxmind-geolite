@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "MaxMind GeoLite Database"
+exit 0
